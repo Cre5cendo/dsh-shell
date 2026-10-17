@@ -1,0 +1,17 @@
+# 构建产物
+app/
+dist/package/
+release/
+vendor/
+*.nupkg
+
+# 运行期数据
+data/
+*.log
+
+# 编辑器 / 系统
+.vs/
+*.user
+*.suo
+Thumbs.db
+desktop.ini

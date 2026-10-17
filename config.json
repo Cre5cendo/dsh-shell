@@ -1,0 +1,20 @@
+{
+  "Host": "auto",
+  "Port": 0,
+  "DshCommand": "",
+  "CloseAction": "tray",
+  "QuitStopsServer": true,
+  "MinimizeToTray": false,
+  "AutoRestartServer": true,
+  "GlobalHotkey": "Ctrl+Alt+D",
+  "StartMinimized": false,
+  "AutoStart": false,
+  "WindowWidth": 1280,
+  "WindowHeight": 860,
+  "WindowX": -1,
+  "WindowY": -1,
+  "WindowMaximized": false,
+  "DevTools": false
+}
+
+
