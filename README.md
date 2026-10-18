@@ -1,7 +1,7 @@
 # DshShell · DeepSeek Harness 桌面外壳
 
-> 给 [DeepSeek Harness](https://deepseek.com) 套一层 Windows 原生窗口：**双击即开、独立任务栏图标、托盘常驻、关闭前先询问**。
-> 不用 Electron，不装 .NET SDK，产物只有一个 **260 KB 的 exe**。
+> 纯粹的dsh套壳。起因是桌面端和Web端经常有一些插件不互通，文件保存位置不同之类的问题。所以给自己做了个dsh外壳，内核还是web。**。
+> 只有一个 **260 KB 的 exe，单纯的web端外壳。使用起来就是web端的习惯**。
 
 ![DshShell 主界面](docs/screenshot.png)
 
